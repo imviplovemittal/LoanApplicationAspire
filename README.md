@@ -1,6 +1,3 @@
-Sure, here's a basic `README.md` for your project. You can modify it according to your needs.
-
-
 # Loan Application
 
 This is a Spring Boot application for managing loans. It provides APIs for requesting loans, taking action on loans, fetching loans, and fetching loan details.
